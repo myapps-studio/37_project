@@ -1,0 +1,7 @@
+// konfiguracja pliku .babelrc
+{
+  "presets": [
+      "env",
+      "react"
+  ]
+}
